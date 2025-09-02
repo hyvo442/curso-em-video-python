@@ -1,0 +1,2 @@
+s0=str(input("digite um numero entre 1000 e 9999"))
+print(f"o numero que voce escolheu foi {s0} a sua unidade de milhar é {s0[0]}, a sua centena é {s0[1]},a sua dezena é {s0[2]}, a sua unidade é {s0[3]}")
